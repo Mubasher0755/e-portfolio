@@ -10,7 +10,7 @@ A collection of artefacts reflecting what I've learned about Artificial Intellig
 
 ![AI YouTube Video Thumbnail](image/Artefact1223.png)
 
-**Link:** [What Is AI? | Learn all about artificial intelligence](https://www.youtube.com/watch?v=JcXKbUlebrU&t=14s)
+**Link:** [What Is AI? | Learn all about artificial intelligence](https://youtu.be/JcXKbUIebrU?si=3Wnz15saZQemGOR9)
 
 ### Summary of the artefact
 I looked at a short YouTube video by Learn Bright that breaks down Artificial Intelligence into easy-to-understand terms. It outlines three main categories: Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence (ASI). The video also covers some of the major pros and cons of AI in modern society. I used to think of AI simply as tech designed to act like humans, but after watching this, I realize it’s really about complex systems handling massive datasets to solve specific problems.
