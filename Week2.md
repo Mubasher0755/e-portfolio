@@ -8,7 +8,7 @@ A collection of artefacts reflecting what I've learned about Artificial Intellig
 
 ## Artefact 1: What is Artificial Intelligence (AI)?[cite: 1]
 
-![AI YouTube Video Thumbnail](URL_TO_YOUR_IMAGE_OR_THUMBNAIL_HERE)[cite: 1]
+![AI YouTube Video Thumbnail](image/Artefact1223.png)[cite: 1]
 
 **Source:** [What Is AI? | Learn all about artificial intelligence](https://www.youtube.com/watch?v=JcXKbUlebrU&t=14s)[cite: 1]
 
