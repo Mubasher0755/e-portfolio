@@ -1,5 +1,3 @@
-> **Disclaimer:** This is an example e-portfolio created for educational purposes for the ICT Ethics and Governance in Society unit
-
 # e-portfolio-1-Artificial-Intelligence
 
 A collection of artefacts reflecting what I've learned about Artificial Intelligence this week[cite: 1].
@@ -13,10 +11,12 @@ A collection of artefacts reflecting what I've learned about Artificial Intellig
 **Link:** [What Is AI? | Learn all about artificial intelligence](https://youtu.be/JcXKbUIebrU?si=3Wnz15saZQemGOR9)
 
 ### Summary of the artefact
-I watched this short video about Artificial intelligence.This video provides an introduction about Artificial Intelligence(AI) and explains how AI is used in our daily life.It demonstrates AI as a large amount of data sets,combination of computer science and problem-solving techniques.The video also explains currently AI systems used for automation
-
+I watched this short video about Artificial intelligence.This video provides an introduction about Artificial Intelligence(AI) and explains how AI is used in our daily life.It demonstrates AI as a large amount of data sets,combination of computer science and problem-solving techniques.The video also explains currently AI systems used for automation such as voice assistants like Alexa and Siri,customer service, and robotics that perform without difficulty and smoothly dangerous tasks.
+This video also introduces three types of Artificial Intellidence;Artificial Narrow Intelligence (ANI),Artificial General Intelligence(AGI),and Artificial Super Intelligence (ASI).The ANI is a well-known and widespread AI that uses with the combination of technologies in today,while the AGI and ASI are future concepts that are still being studied.I can say confidently both of them,we will see next 10 years.
+Furthermore,this video also demonstrates the benefits and drawbacks of AI.The advantages are to do repetitive tasks easily and hazordous works,saving time,reducing human error,imrpoving safety and developing technological discoveries.However,disadvantages include environmental impacts,possible job diplacements,
+cybersecurity risks and high costs.
 ### Justification on why I chose the artefact
-I picked this video because it kept things simple and avoided overloading me with tech jargon[cite: 1]. While I’d heard of AGI before, ANI and ASI were totally new concepts to me. The idea of ASI is a little intimidating—especially after our class discussion on how people might form real emotional connections with machines. I was relieved when the narrator pointed out that ASI is still purely theoretical and pretty far-fetched for now. Even though the video seems targeted at a younger audience, I find that straightforward visual explanations are the best way to grasp new topics. As a first-year student, I'm still building up my foundational knowledge, so this was a great starting point!
+I selected this video because it is easy to uderstand and provides information clearly,smoothly.Before watching this video,I have not any idea about ANI,AGI and ASI.After watching this video,I learnt how to improve our life and do different tasks even,people can not anything like hazardous tasks, and AGI and ASI are future tools.We can also discuss about AI development,improvement of people's work.It is first term,but I learnt the basics of knowledge about Whta it is AI? and how it can impact our life.It also helped me to understand that while AI can improve efficiency and support innovation,it is important to consider ethical problems and possible risks. It will be great improvement and positive changes near future!
 
 ---
 
