@@ -24,3 +24,4 @@ I selected this video because it is easy to uderstand and provides information c
 **AI, genomics, and one dog named Rosie: 5 Things the Story Get Right About Personalised Medicine**
 *InGeNA(Industry Genomics Network Alliance)-22.May.2026* 
 ![A news article](image/article1.png)
+https://ingena.org.au/ai-genomics-and-one-dog-named-rosie-5-things-the-story-gets-right-about-personalised-medicine/
