@@ -1,6 +1,6 @@
 # e-portfolio-1-Artificial-Intelligence
 
-A collection of artefacts reflecting what I've learned about Artificial Intelligence this week[cite: 1].
+A collection of artefacts reflecting what I've learned about Artificial Intelligence this week
 
 ---
 
