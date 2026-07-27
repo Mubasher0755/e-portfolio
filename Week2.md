@@ -23,4 +23,4 @@ I selected this video because it is easy to uderstand and provides information c
 ## Artefact 2: A news article I found this week
 **AI, genomics, and one dog named Rosie: 5 Things the Story Get Right About Personalised Medicine**
 *InGeNA(Industry Genomics Network Alliance)-22.May.2026* 
-![A news article]()
+![A news article](image/article1.png)
