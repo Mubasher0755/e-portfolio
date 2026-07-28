@@ -37,7 +37,9 @@ I chose this article because it demonstrates a practical and uplifting applicati
 **Artificial Intelligence,Machine Learning, and Robotics:The Core of Tomorrow's Industries**
 *Rachel J.C. Fu, Ph.D.*
 *AI, ML, & Robotics in Business. 2025, 1(2), 6-9*
-(https://journals.flvc.org/aimlrb/)
+
+
+(https://journals.flvc.org/aimlrb/article/download/139237/144280/277204)
 
 
 
