@@ -40,7 +40,7 @@ I chose this article because it demonstrates a practical and uplifting applicati
 *Rachel J.C. Fu, Ph.D.*
 *AI, ML, & Robotics in Business. 2025, 1(2), 6-9*
 
-(image/)
+![Artefact3 screenshot](image/article2.png)
 
 https://journals.flvc.org/aimlrb/ 
 
