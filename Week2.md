@@ -37,8 +37,13 @@ I chose this article because it demonstrates a practical and uplifting applicati
 
 ## Artefact 3: Scholary Article
 **Artificial Intelligence,Machine Learning, and Robotics:The Core of Tomorrow's Industries**
+
 *Rachel J.C. Fu, Ph.D.*
 *AI, ML, & Robotics in Business. 2025, 1(2), 6-9*
+
+*Correspondence: racheljuichifu@ufl.edu Eric Friedheim Tourism Institute | Dept. of Tourism,
+Hospitality and Event Management, College of Health and Human Performance, University of
+Florida, USA*
 
 ### **Abstract**
 The second issue of AI, ML, and Robotics in Business arrives amid global uncertainty
