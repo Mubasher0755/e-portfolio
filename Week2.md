@@ -32,3 +32,13 @@ This article explores how a tech-savvy dog owner used genomic sequencing and AI 
 
 ### **Justification on why I chose the artefact**
 I chose this article because it demonstrates a practical and uplifting application of AI,contrasting with the usual negative headlines.This article gave me a much clearer and realistic of AI.It helped realaize that tools like Chatgpt,Gemini not 'magical doctor' however,high-speed analytical assistants,that still require experts,scientists and medical labs.This article connected directly our last week workshop discussions about how machine learning excels at processing massive data sets.Humsn analysts would take months or years to sort genomic data,but AI can spot patterns in just seconds.It is unbelieveble but I can say that this story as a first year student learning ICT ethics and governance showed not only the new method to manufacture personalized medicines but also I learnt the importance of safe collaboration between human experts and AI.
+
+## Artefact 3: Scholary Article
+**Artificial Intelligence,Machine Learning, and Robotics:The Core of Tomorrow's Industries**
+*Rachel J.C. Fu, Ph.D.*
+*AI, ML, & Robotics in Business. 2025, 1(2), 6-9*
+(https://journals.flvc.org/aimlrb/)
+
+
+
+
