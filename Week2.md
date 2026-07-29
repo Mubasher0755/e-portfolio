@@ -78,6 +78,15 @@ I picked this article because it directly reflects our workshop discusssions on 
 
 *Tutor: Umapathy Venugopal*
 
-![Selphie photo](image/)
+![Selphie photo](image/artefact4.jpeg)
 
 
+### **Summary of the artefact:My personal reflection**
+I learnt many things workshop week especially about AI.As a new  student i am starting my academic journey on the workshop,I gained new information,how to use AI,how many ways to use AI and I also I knew use AI as a ethical way.It is important because the crucial thing is that development with right way is useful and efficiently.
+
+### **Justification on why I chose the artefact**
+
+At first glance evevryone can see this picture who sitting a man think deeply.I didn't pick this image it jus caught my eye-I chose it because it confronts directly two main questions on the slide.
+What does Artificial Intelligence mean to you? To me,AI isn't digital brain.It's just a sharp tool built churn through data,spot pattern, and take repetitive tasks off our hands.It can boost what we do,create easy life to us.
+WHat is intelligence? True intelligence is a lot more than just fast processing power.It's about being able to adap whent things get unpredictable,learning from our mistakes,feeling emotions,and also making ethical choices.Human intelligence is real.
+Yes,we also answered these questions out workshop but I want to add my portfolio and finish with them.I know AI is a powerful tool that have a unique opportunities but we must always remember this tool is manufactured by humans.
