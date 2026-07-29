@@ -90,3 +90,20 @@ At first glance evevryone can see this picture who sitting a man think deeply.I 
 What does Artificial Intelligence mean to you? To me,AI isn't digital brain.It's just a sharp tool built churn through data,spot pattern, and take repetitive tasks off our hands.It can boost what we do,create easy life to us.
 WHat is intelligence? True intelligence is a lot more than just fast processing power.It's about being able to adap whent things get unpredictable,learning from our mistakes,feeling emotions,and also making ethical choices.Human intelligence is real.
 Yes,we also answered these questions out workshop but I want to add my portfolio and finish with them.I know AI is a powerful tool that have a unique opportunities but we must always remember this tool is manufactured by humans.
+
+---
+
+## References in CQU Harvard Style
+
+CQUniversity 2026, 'Week 2: Artificial intelligence', *COIT11223 ICT Ethics and Governance in Society*, workshop slides, CQUniversity Moodle, viewed 29 July 2026, <https://moodle.cqu.edu.au>. 
+Fu, RJC 2025, 'Artificial intelligence, machine learning, and robotics: the core of tomorrow's industries', *AI, ML, & Robotics in Business*, vol. 1, no. 2, pp. 6-9, viewed 29 July 2026, <https://journals.flvc.org/aimlrb/article/download/139237/144280/277204>.
+InGeNA 2026, *AI, genomics, and one dog named Rosie: 5 things the story gets right about personalised medicine*, Industry Genomics Network Alliance, viewed 29 July 2026, <https://ingena.org.au/ai-genomics-and-one-dog-named-rosie-5-things-the-story-gets-right-about-personalised-medicine/>.
+Learn Bright 2024, *What Is AI? | Learn all about artificial intelligence*, video, YouTube, 6 December, viewed 29 July 2026, <https://youtu.be/JcXKbUIebrU?si=3Wnz15saZQemGOR9>.
+
+
+
+
+
+
+
+
