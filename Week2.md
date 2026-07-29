@@ -97,7 +97,9 @@ Yes,we also answered these questions out workshop but I want to add my portfolio
 
 CQUniversity 2026, 'Week 2: Artificial intelligence', *COIT11223 ICT Ethics and Governance in Society*, workshop slides, CQUniversity Moodle, viewed 29 July 2026, <https://moodle.cqu.edu.au>. 
 
-Fu, RJC 2025, 'Artificial intelligence, machine learning, and robotics: the core of tomorrow's industries', *AI, ML, & Robotics in Business*, vol. 1, no. 2, pp. 6-9, viewed 29 July 2026, <https://journals.flvc.org/aimlrb/article/download/139237/144280/277204>.
+Fu, RJC 2025, 'Artificial intelligence, machine learning, and robotics: the core of tomorrow's industries', *AI, ML, & Robotics in Business*, vol. 1, no. 2, pp. 6-9, viewed 29 July 2026,       https://journals.flvc.org/aimlrb/
+
+<https://journals.flvc.org/aimlrb/article/download/139237/144280/277204>.
 
 InGeNA 2026, *AI, genomics, and one dog named Rosie: 5 things the story gets right about personalised medicine*, Industry Genomics Network Alliance, viewed 29 July 2026, <https://ingena.org.au/ai-genomics-and-one-dog-named-rosie-5-things-the-story-gets-right-about-personalised-medicine/>.
 
