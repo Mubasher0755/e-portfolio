@@ -63,6 +63,10 @@ https://journals.flvc.org/aimlrb/
 
 https://journals.flvc.org/aimlrb/article/download/139237/144280/277204
 
+### **Summary of the artefact**
+
+In this article Dr.Rachel.J.C.Fu (2025) explores how AI, machine learning and robotics reshaping major industries like healthcare, farming and hospitality.People think that AI will take human jobs,she argues that these tools are menat to assist and boost human intelligence,decision-making,problem-solving skills and also their efficiency.Looking at highlights from NVIDIA's GTC 2025 conference,the paper points out how supercomputing is expanding while also creating brand-new career opportunities like AI ethics consultant.Dr.Fu concludes that to make the most of this new tech era,we need to stronger,more resilience and also need strong ethical guidelines,data privacy to learn new skills. 
+
 
 
 
