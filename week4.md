@@ -29,7 +29,7 @@ This article is about three university students in Malta who found flaws in Free
 Before reading this article,I thought hacking was simple,accessing a system without permission is wrong.This article changed that.The students were not malicious,they found a flaw,reported it,and asked for a fair reward,yet were treated like criminals,it is unbelieveble.That made me realise intent matters just as much as action itself.Think about it Kant's rule test,if nobody ever reported security flaws out of fear,real dangers would just stay hidden and get exploited by people with bad instead.Thuis was a mixed experince,but also eye-opening and it made me think more carefully about risks of doing the right thing.
 
 
-## ** Justification on why I chose this article
+## **Justification on why I chose this article**
 I chose this this article because it shows a real grey area in ICt ethics,where trying to do the right thing still led to serious consequencess.It also connects well to the ethical theories form the workshop,since it's exactly the kind of case those theories are meant to help you.I also mention that it is a real situation of black and white thing.It depend on your situation,if you choose the right thing,it would be danger of your life.This article has shown exatly the real experience.
 
 
@@ -39,6 +39,13 @@ I chose this this article because it shows a real grey area in ICt ethics,where 
 ![YouTubevideo](image/ARTEFACT3.png)
 **Link**  https://youtu.be/NG2OJCdeM_A?si=j3YU5mmmlysADJoc
 
+
+## **Reflection and Summary of the aretfact** 
+
+This video explains insider threats,security risks that come from people who already have legitimate access to a company's systems,like employees or contractors.It covers how this access can be misused either on purpose (for revenge or money) or by accident  (carelessness or falling for a scam).Befote watching this youtube video,I had idea about cybersecurity only threats as coming from outside hackers trying to break in.I learnt some useful datas after watching,especially that the biggest risks comes from people who already have permisison to be there,which honestly had not crossed my mind before.What stood out was that not all insider threats are maicious,a lot from just careless mistakes,like someone saving data somewhere they should not have.Overall,this was useful experience for me,because of it increased my attention and try to be carefully especially in every situation,it's an ethical responsibility.
+
+## **Justification on why I chose this article**
+I chose this video as it's a differnet angle on ICT ethics compared to my other artefacts,also this showed us the risk comes from inside an organisation,not an outside attackers.It felt like an important gap to cover,since trust and acces are things every.Furthermore,I easily understood the main point of the video,It was clearly and smoothly expressed.
 
 
 
