@@ -5,7 +5,7 @@ A collection of artefacts reflecting what I've learned about Artificial Intellig
 
 ## Artefact 1: Ethics of Data Breaches (YouTube Video)
 ![YouTube Video](image/ARTEFACT1.png)
-**Link:**(https://youtu.be/luZ1y_7MC4U?si=dBtD6h6qpONx1nQ5)
+**Link** https://youtu.be/luZ1y_7MC4U?si=dBtD6h6qpONx1nQ5
 
 ### **Reflection of the Artefact**
 This video explains that a data breach happens when someone gets access to data shouldn't have.It breaks this down into a few types:cyber attacks  from outside hackers,accidental leaks(like falling for a phinshing email or emailing the wrong person),payment card fraud,and simply losing devices like laptops.The most was that a lot of breaches aren't caused by advanced hacking,however just a simple human mistakes.Before watching this youtube video,I mostly thought breaches as a technical problem that IT teams may fix this with better software.After that I realized that it is just an ethucal and human issue.This also connets directly to information from th unit trust and rigths.Users expect their data to respected.
@@ -21,7 +21,7 @@ I chose this video because data breaches are common and very real problem in ICT
 
 ## Artefact 2: The Freehour Ethical Hacking Case (News Article)
 ![News Article](image/ARTEFACT2.png)
-**Link:**(https://www.maltatoday.com.mt/news/court_and_police/133925/lecturer_and_three_students_charged_with_hacking_maltas_largest_student_app)
+**Link** https://www.maltatoday.com.mt/news/court_and_police/133925/lecturer_and_three_students_charged_with_hacking_maltas_largest_student_app
 
 
 ## **Reflection and Summary of the artefact**
@@ -35,6 +35,9 @@ I chose this this article because it shows a real grey area in ICt ethics,where 
 
 ---
 
+## Artefact 3: Misuse of Privileges / Insider Threats (YouTube Video)
+![YouTubevideo](image/ARTEFACT3.png)
+**Link**  https://youtu.be/NG2OJCdeM_A?si=j3YU5mmmlysADJoc
 
 
 
