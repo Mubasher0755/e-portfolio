@@ -56,3 +56,24 @@ I chose this video as it's a differnet angle on ICT ethics compared to my other 
 In this week's workshop,we looked at a scenario where a time-poor student used a generative AI tool write their final report and submitted it as their own work.We used Kant's tests to work out whether it actually wrong or just a shortcut.Before the workshop,I had noit really thought about using AI for assignments was ethically wrong,it's become such a normal part of student life that i never questioned it so far.This scenario helped me to think about deeply.What stood out most was Kan'ts test,if you imagine every student doing this,reports would stop meaning anything,and lecturer would have no reason to grade them at all.It's is not just the one student is cheating it's "what happens if this becomes the norm".
 Even after going through Kant's reasoning,I'm still a bit torn.The logic makes sense,I get why it's wrong when you break it down like that.But I also get why a student under pressure might see it as a practical shortcut,not some big ethical violation.So finally,it left me feeling fairlyneutral,jsut more aware that it's more complicated than I first assumed.That having a framework like Kant's gives you a proper way to think through grey areas instead of just going with your gut,and going forward I'll be more mindful about why something counts as ethical or not.
 
+
+---
+
+#References in CQU Harvard style
+
+References in CQU Harvard Style
+
+CQUniversity 2026, 'Week 4: Ethics and ethical theories', COIT11223 ICT Ethics and Governance in Society, workshop slides, CQUniversity Moodle, viewed 12 August 2026, https://moodle.cqu.edu.au.
+
+DataGuard 2023, Data Breaches Explained, video, YouTube, 2 February, viewed 12 August 2026, https://www.youtube.com/watch?v=luZ1y_7MC4U.
+
+
+MaltaToday 2025, Lecturer and three students charged with hacking Malta's largest student app, viewed 12 August 2026, https://www.maltatoday.com.mt/news/court_and_police/133925/lecturer_and_three_students_charged_with_hacking_maltas_largest_student_app.
+
+
+2025, What Is an Insider Threat?, video, YouTube, 29 April, viewed 12 August 2026, https://www.youtube.com/watch?v=NG2OJCdeM_A.
+
+
+
+
+
