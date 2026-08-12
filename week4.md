@@ -20,6 +20,27 @@ I chose this video because data breaches are common and very real problem in ICT
 
 
 ## Artefact 2: The Freehour Ethical Hacking Case (News Article)
-![News Article]()
+![News Article](image/ARTEFACT2.png)
+**Link:**(https://www.maltatoday.com.mt/news/court_and_police/133925/lecturer_and_three_students_charged_with_hacking_maltas_largest_student_app)
+
+
+## **Reflection and Summary of the artefact**
+This article is about three university students in Malta who found flaws in FreeHour,the country's most popular student app.They just reported company and asked forn a reward.Instead of thnaking them,the company reported the students to the police,and they were later criminally charged,even though nothing was stolen.
+Before reading this article,I thought hacking was simple,accessing a system without permission is wrong.This article changed that.The students were not malicious,they found a flaw,reported it,and asked for a fair reward,yet were treated like criminals,it is unbelieveble.That made me realise intent matters just as much as action itself.Think about it Kant's rule test,if nobody ever reported security flaws out of fear,real dangers would just stay hidden and get exploited by people with bad instead.Thuis was a mixed experince,but also eye-opening and it made me think more carefully about risks of doing the right thing.
+
+
+## ** Justification on why I chose this article
+I chose this this article because it shows a real grey area in ICt ethics,where trying to do the right thing still led to serious consequencess.It also connects well to the ethical theories form the workshop,since it's exactly the kind of case those theories are meant to help you.I also mention that it is a real situation of black and white thing.It depend on your situation,if you choose the right thing,it would be danger of your life.This article has shown exatly the real experience.
+
+
+---
+
+
+
+
+
+
+
+
 
 
