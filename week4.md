@@ -13,3 +13,13 @@ Overall,this may be fairly negative but eye -opening experince because,i realize
 
 ## **Justification on why I chose this artefact**
 I chose this video because data breaches are common and very real problem in ICT,and it connects well to the etics ideas we covered in the workshop,especially trust,privacy and responsibility.This video also very briefly and well-structured to understand and try to think about safety and more responsible.
+
+
+---
+
+
+
+## Artefact 2: The Freehour Ethical Hacking Case (News Article)
+![News Article]()
+
+
