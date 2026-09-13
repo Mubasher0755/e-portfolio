@@ -17,11 +17,12 @@ I chose this article because it connects directly to the AI and copyright topic 
 
 ---
 
-## Artefact #2 — Video
+## Artefact #2 — You Tube Video
 
 ![Screenshot](images/artefact2-screenshot.png)
 
-**Source:** 
+**Source:** Liyanage, M 2026, *Who Owns AI-Generated Content? Copyright Law Explained (2026)*, video, YouTube, <https://www.youtube.com/watch?v=JSKEaeYloYk>.
+
 
 **Paragraph 1 — Summary:**
 
