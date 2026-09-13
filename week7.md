@@ -47,24 +47,31 @@ I chose this source because it explains a real, practical process rather than ju
 
 ---
 
-## Artefact #4 — Workshop Key Idea + Attendance Evidence
+## Artefact #4 — Workshop Key Idea
 
-![Workshop 7 selfie](images/workshop7-selfie.png)
+![Workshop 7 selfie](image/image3.jpg)
 
-**Topic:** 
+**Topic:** The Monkey Selfie Copyright Dispute and Human Authorship
 
-**Paragraph 1 — Summary:**
+**Summary:**
+In Week 7, we discussed the Monkey Selfie case, where a macaque monkey in Indonesia pressed a camera shutter and took a series of photos, including a famous selfie. When the images went public, a legal dispute arose over who owned the copyright: the monkey, the photographer, or no one at all. The courts ruled that copyright can only belong to a human author, so the monkey could not hold the rights. As a result, the photo now sits in the public domain, meaning anyone can legally use it.
 
-
-**Paragraph 2 — Why I chose this:**
-
+** Why I chose this:**
+I chose this idea because it raises a simple but important question: can something be owned if no human directly created it? This case is now used to discuss AI-generated content, since AI is treated the same way as the monkey under current law, a non-human actor whose output does not automatically receive copyright protection. This helped me understand why human authorship remains such a central rule in copyright law today.
 
 ---
 
 ## References
 
+IP Australia 2026, *Trade marks*, IP Australia, Australian Government, <https://www.ipaustralia.gov.au/trade-marks>.
+
+Liyanage, M 2026, *Who Owns AI-Generated Content? Copyright Law Explained (2026)*, video, YouTube, <https://www.youtube.com/watch?v=JSKEaeYloYk>.
+
+Watchorn, J 2026, *World IP Day 2026: Copyright, Creativity, and the Future of AI in Australia*, Electronic Frontiers Australia, <https://efa.org.au/world-ip-day-2026-copyright-future-ai-australia/>.
 
 
 ---
 
 ## AI Use Declaration
+
+I used AI during the planning stage of this e-portfolio to help search for relevant and current sources on intellectual property topics, and to better understand complex legal cases discussed in the Week 7 workshop. All final reflections and justifications were written in my own words based on this research.
