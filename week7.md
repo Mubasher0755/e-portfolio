@@ -6,7 +6,7 @@
 
 ![Screenshot](image/ARTEFACT1(7).png)
 
-**Source:** Watchorn, J 2026, *World IP Day 2026: Copyright, Creativity, and the Future of AI in Australia*, Electronic Frontiers Australia, viewed [date], <https://efa.org.au/world-ip-day-2026-copyright-future-ai-australia/>.
+**Source:** Watchorn, J 2026, *World IP Day 2026: Copyright, Creativity, and the Future of AI in Australia*, Electronic Frontiers Australia, <https://efa.org.au/world-ip-day-2026-copyright-future-ai-australia/>.
 
 **Summary:**
 The main idea of this article is that copyright is not a barrier to innovation. Instead, this system provides a huge benefit and supports creativity and fair use. However, the article explains that Australia is trying to weaken copyright protection so AI companies can train their systems more easily. This is unfair because creators' work is being used without their permission. As a solution, the author suggests Australia should follow the European Union's AI Act, which is more transparent and fair.
@@ -35,15 +35,15 @@ I chose this video because it directly relates to the AI and copyright discussio
 
 ## Artefact #3 — Website/Blog
 
-![Screenshot](images/artefact3-screenshot.png)
+![Screenshot](image/Artefact3(7).png)
 
-**Source:** 
+**Source:** IP Australia 2026, *Trade marks*, IP Australia, Australian Government, <https://www.ipaustralia.gov.au/trade-marks>
 
-**Paragraph 1 — Summary:**
+**Summary:**
+This IP Australia webpage explains what a trade mark is and how a business can register one to protect its brand. It clearly outlines the key steps involved, from searching existing trade marks to avoid conflicts, to understanding the timeframes and fees involved. According to the page, the registration process takes at least seven months and costs a minimum of $250. This gave me a clear, practical understanding of how trade mark protection actually works
 
-
-**Paragraph 2 — Why I chose this:**
-
+**Why I chose this:**
+I chose this source because it explains a real, practical process rather than just abstract legal theory. Before reading this, I did not realise how much time and cost is involved in protecting a brand. It also helped me understand why many businesses choose to register their trade marks early, since delaying protection could allow competitors to use a similar brand name first.
 
 ---
 
