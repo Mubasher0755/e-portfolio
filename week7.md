@@ -4,7 +4,7 @@
 
 ## Artefact #1 — News Article
 
-![Screenshot](images/artefact1-screenshot.png)
+![Screenshot](image/ARTEFACT1(7).png)
 
 **Source:** Watchorn, J 2026, *World IP Day 2026: Copyright, Creativity, and the Future of AI in Australia*, Electronic Frontiers Australia, viewed [date], <https://efa.org.au/world-ip-day-2026-copyright-future-ai-australia/>.
 
