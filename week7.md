@@ -19,15 +19,16 @@ I chose this article because it connects directly to the AI and copyright topic 
 
 ## Artefact #2 — You Tube Video
 
-![Screenshot](images/artefact2-screenshot.png)
+![Screenshot](image/Artefact2(7).png)
 
 **Source:** Liyanage, M 2026, *Who Owns AI-Generated Content? Copyright Law Explained (2026)*, video, YouTube, <https://www.youtube.com/watch?v=JSKEaeYloYk>.
 
 
-**Paragraph 1 — Summary:**
+**Summary:**
+This video by Mahela Liyanage explores who actually owns content created by AI tools, whether it is the person who wrote the prompt, the company that built the AI, or no one at all. The video explains that under current copyright law, a prompt alone does not count as human authorship. As a result, fully AI-generated content without meaningful human editing cannot be legally owned by anyone.
 
-
-**Paragraph 2 — Why I chose this:**
+**Why I chose this:**
+I chose this video because it directly relates to the AI and copyright discussion from our Week 7 workshop, especially the idea that copyright requires a human author. Watching this made me realise that using AI tools comes with real legal risks if people assume they automatically own whatever the AI produces. This connects closely to the Monkey Selfie case, where a similar authorship question was raised.
 
 
 ---
