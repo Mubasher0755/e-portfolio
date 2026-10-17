@@ -5,7 +5,9 @@ Before I started this unit, I honestly thought ADM was a good thing for governme
 
 ## Artefact 1: What is Automated Decision Making (ADM)?
 
-<img width="800" alt="Commonwealth Ombudsman ADM Better Practice Guide" src="PASTE-IMAGE-LINK-HERE">
+<img width="504" height="743" alt="image" src="https://github.com/user-attachments/assets/6f3650ac-d5a1-4690-af23-1b5a03374e24" />
+
+
 
 https://www.ombudsman.gov.au/__data/assets/pdf_file/0025/317437/Automated-Decision-Making-Better-Practice-Guide-March-2025.pdf
 
