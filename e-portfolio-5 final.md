@@ -44,8 +44,8 @@ Next, I wanted to understand why Robodebt happened and whether other countries h
 I chose this article because it changed my first opinion. At the start, I blamed only the algorithm. This article showed me that harsh policies and political pressure behind a system decide whether it is used fairly. It links to Social Contract Theory, because in both countries the government ignored the checks that protect citizens. As a future ICT professional, I learned to ask why a system is being built, not only how.
 
 ## Artefact 4: The Dutch childcare benefits scandal – ADM in another country
+<img width="1900" height="906" alt="image" src="https://github.com/user-attachments/assets/f1d7b40b-dbd6-40c7-886c-4a941679c8a7" />
 
-<img width="800" alt="RSM Discovery article Kafkaesque AI" src="PASTE-IMAGE-LINK-HERE">
 
 https://www.rsm.nl/discovery/2025/shifting-the-burden-of-proof-back-to-ai/
 
