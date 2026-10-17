@@ -19,7 +19,8 @@ I chose this guide as my starting point because it gave me a clear and official 
 
 ## Artefact 2: Robodebt – what happens when ADM goes wrong in Australia
 
-<img width="800" alt="ABC News video on Robodebt compensation" src="PASTE-IMAGE-LINK-HERE">
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8ffe0e4a-14f5-4adc-9f27-ff6a9174103a" />
+
 
 https://www.youtube.com/watch?v=BKPQ1iZgAL8
 
