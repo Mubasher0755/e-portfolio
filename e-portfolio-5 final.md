@@ -32,7 +32,8 @@ I chose this video because it shows the human cost of ADM, and that the damage c
 
 ## Artefact 3: Comparing Robodebt with the Dutch scandal
 
-<img width="800" alt="First page of Bouwmeester 2025 journal article" src="PASTE-IMAGE-LINK-HERE">
+<img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/bdae8055-44a8-4982-82ff-11e519b24edd" />
+
 
 https://doi.org/10.1177/13882627251330438
 
