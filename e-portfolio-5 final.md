@@ -56,8 +56,8 @@ The journal article made me want to look more closely at the Netherlands. This a
 I chose this artefact because it shows that ADM problems are global, not only Australian. The idea that AI shifts the burden of proof onto citizens surprised me, because the same thing happened with Robodebt. This links to the ACS value of Honesty, because a system that cannot explain its decisions is not being honest with people. It also made me understand why bias testing is part of a developer's ethical duty.
 
 ## Artefact 5: Is a "human in the loop" enough?
+<img width="1900" height="911" alt="image" src="https://github.com/user-attachments/assets/23a1bc5b-43bc-472e-8999-ed9632128ad7" />
 
-<img width="800" alt="EDPS TechDispatch 2/2025 on human oversight" src="PASTE-IMAGE-LINK-HERE">
 
 https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2025-09-23-techdispatch-22025-human-oversight-automated-making_en
 
