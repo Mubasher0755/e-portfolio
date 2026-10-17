@@ -69,7 +69,8 @@ I chose this artefact because it corrected my belief that a human reviewer solve
 
 ## Artefact 6: The future of ADM rules in Australia
 
-<img width="800" alt="Medical Republic article on ADM Bill 2026" src="PASTE-IMAGE-LINK-HERE">
+<img width="857" height="673" alt="image" src="https://github.com/user-attachments/assets/df09eceb-c713-4bd6-8023-22a6fb8bbf68" />
+
 
 https://www.medicalrepublic.com.au/no-more-robodebt-new-push-for-guardrails-on-government-algorithms/128891
 
